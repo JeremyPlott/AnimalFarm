@@ -1,0 +1,11 @@
+C:\repos\CSharp\ClassesIntroduction\ClassesIntroduction\bin\Debug\netcoreapp2.1\ClassesIntroduction.deps.json
+C:\repos\CSharp\ClassesIntroduction\ClassesIntroduction\bin\Debug\netcoreapp2.1\ClassesIntroduction.runtimeconfig.json
+C:\repos\CSharp\ClassesIntroduction\ClassesIntroduction\bin\Debug\netcoreapp2.1\ClassesIntroduction.runtimeconfig.dev.json
+C:\repos\CSharp\ClassesIntroduction\ClassesIntroduction\bin\Debug\netcoreapp2.1\ClassesIntroduction.dll
+C:\repos\CSharp\ClassesIntroduction\ClassesIntroduction\bin\Debug\netcoreapp2.1\ClassesIntroduction.pdb
+C:\repos\CSharp\ClassesIntroduction\ClassesIntroduction\obj\Debug\netcoreapp2.1\ClassesIntroduction.csprojAssemblyReference.cache
+C:\repos\CSharp\ClassesIntroduction\ClassesIntroduction\obj\Debug\netcoreapp2.1\ClassesIntroduction.csproj.CoreCompileInputs.cache
+C:\repos\CSharp\ClassesIntroduction\ClassesIntroduction\obj\Debug\netcoreapp2.1\ClassesIntroduction.AssemblyInfoInputs.cache
+C:\repos\CSharp\ClassesIntroduction\ClassesIntroduction\obj\Debug\netcoreapp2.1\ClassesIntroduction.AssemblyInfo.cs
+C:\repos\CSharp\ClassesIntroduction\ClassesIntroduction\obj\Debug\netcoreapp2.1\ClassesIntroduction.dll
+C:\repos\CSharp\ClassesIntroduction\ClassesIntroduction\obj\Debug\netcoreapp2.1\ClassesIntroduction.pdb
